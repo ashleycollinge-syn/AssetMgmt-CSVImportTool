@@ -1,0 +1,5 @@
+work/errors/*.csv
+work/*.csv
+work/todo/*.csv
+work/successful/*.csv
+.vscode/launch.json

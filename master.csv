@@ -1,0 +1,209 @@
+OperatingSystem,Manufacturer,Username,Model,SerialNumber,ProcessorModel,ServicePackVer,MemoryCapacity,MaxClockSpeed,NumberOfCores,ComputerName,IsLaptop,NumberOfLogicalProcessors
+Microsoft Windows 10 Pro,HP,sophie.gregory,HP 280 G2 SFF,4CE70919WK,Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz,0,8589934592,3696,2,DESKTOP-P6LRUIN,False,4
+Microsoft Windows 10 Pro,Hewlett-Packard,andrew.payne,HP EliteBook 2570p,CNU243CCCV,Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz,0,4294967296,2601,2,HPLAPTOP,True,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Hannah.Spendlove,HP Compaq Pro 4300 SFF PC,CZC3126R6Y,Intel(R) Core(TM) i5-3470S CPU @ 2.90GHz,1,4294967296,2901,4,IT-NAV001,False,4
+Microsoft Windows 10 Pro,Dell Inc.,Elizabeth.Lyons,OptiPlex 9020,72WPJ32,Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz,0,8589934592,3001,4,QUICKVIEW-01,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,anthony.carroll,HP Pro 3015 Microtower PC,CZC0025RWZ,AMD Athlon(tm) II X2 215 Processor,1,4294967296,2700,2,SEL-0001,False,2
+Microsoft Windows 10 Pro,Hewlett-Packard,Andrew.Payne,HP EliteBook 8440p,CZC0521Y9X,Intel(R) Core(TM) i7 CPU       M 640  @ 2.80GHz,0,8589934592,2800,2,SEL-0421,True,4
+Microsoft Windows 7 Professional ,Dell Inc.,lee.howorth,OptiPlex 780                 ,5XXDQ4J,Intel(R) Core(TM)2 Duo CPU     E7600  @ 3.06GHz,1,4294967296,3059,2,SEL-0482,False,2
+Microsoft Windows 10 Pro,Hewlett-Packard,paul.maloney,HP ProBook 650 G1,CNU416C3LK,Intel(R) Core(TM) i5-4200M CPU @ 2.50GHz,0,4294967296,2501,2,SEL-0492,True,4
+Microsoft Windows 10 Pro,Hewlett-Packard,sue.stevenson,HP Compaq Elite 8300 SFF,CZC3136W61,Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz,0,6442450944,3201,4,SEL-0610,False,4
+Microsoft Windows 10 Pro,HP,Craig.Jarvis,HP ProBook 650 G3,5CG7324KJC,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,0,8589934592,2712,2,SEL-0612,True,4
+Microsoft Windows 7 Professional ,HP,Gemma.Thomas,HP Z2 Mini G3 Workstation,CZC73878V8,Intel(R) Xeon(R) CPU E3-1245 v5 @ 3.50GHz,1,34359738368,3501,4,SEL-0618,False,8
+Microsoft Windows 10 Pro,HP,qlikview.roof1,HP 260 G2 DM,4CH7257HXM,Intel(R) Core(TM) i3-6100U CPU @ 2.30GHz,0,4294967296,2301,2,SEL-0619,False,4
+Microsoft Windows 10 Pro,FUJITSU,vanessa.critchley,ESPRIMO E500,YLCS002283,Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz,0,4294967296,3100,2,SEL-0622,False,4
+Microsoft Windows 10 Pro,HP,rayres,HP 285 G2 MT,CZC73680CS,AMD A8 PRO-7600B R7,0,8589934592,3100,2,SEL-0653,False,4
+Microsoft Windows 7 Professional ,HP,DBOALER,HP 280 G2 MT (Non-Legacy) ,CZC6369CSN,Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz,1,17179869184,3401,4,SEL-0667,False,8
+Microsoft Windows 10 Pro,HP,Mark.Johnston,HP ProBook 640 G3,5CG7313BFV,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,0,4294967296,2712,2,SEL-0691,True,4
+Microsoft Windows 7 Professional ,HP,KARMSTRONG,HP EliteDesk 800 G2 SFF,AUD6120GG0,Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz,1,8589934592,3201,4,SEL-0785,False,4
+Microsoft Windows 7 Professional ,Dell Inc.,Tom.young,OptiPlex 780                 ,6WL815J,Intel(R) Core(TM)2 Duo CPU     E7600  @ 3.06GHz,1,4294967296,3059,2,SEL-0863,False,2
+Microsoft Windows 7 Professional ,Dell Inc.,Darren.Lahera,OptiPlex 780                 ,BWL815J,Intel(R) Core(TM)2 Duo CPU     E7600  @ 3.06GHz,1,4294967296,3059,2,SEL-0864,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Nichola.Ceho,HP Pro 3500 Series,CZC25187F4,Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz,1,8589934592,3201,4,SEL-128,False,4
+Microsoft Windows 10 Pro,HP,Jonathan.Crohill,HP ZBook 15u G4,5CG8172YGX,Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz,0,17179869184,2904,2,SEL-2948,True,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Blake.Vincent,HP ProDesk 400 G1 MT,CZC41650MK,Intel(R) Pentium(R) CPU G3220 @ 3.00GHz,1,4294967296,3000,2,SEL-3843,False,2
+Microsoft Windows 7 Professional ,Dell Inc.,Amy.Jackson,OptiPlex 780                 ,6N05N4J,Intel(R) Core(TM)2 Duo CPU     E7500  @ 2.93GHz,1,10737418240,2926,2,SEL-3903,False,2
+Microsoft Windows 10 Pro,Hewlett-Packard,vijay.mistry,HP ProBook 650 G1,5CG5304G8M,Intel(R) Core(TM) i5-4210M CPU @ 2.60GHz,0,4294967296,2601,2,SEL-4689,True,4
+Microsoft Windows 7 Professional ,HP,gatehouse,HP EliteDesk 800 G2 SFF,AUD6120CSS,Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz,1,8589934592,3201,4,SEL-4945,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,karen.potts,HP ProBook 650 G1,5CG6196VGH,Intel(R) Core(TM) i5-4210M CPU @ 2.60GHz,1,4294967296,2601,2,SEL-5378,True,4
+Microsoft Windows 10 Pro,Hewlett-Packard,Jonathan.Bryan,HP EliteBook 840 G1,5CG5191M2Q,Intel(R) Core(TM) i5-4300U CPU @ 1.90GHz,0,8589934592,2501,2,SEL-6789,True,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Bethany.Ashworth,HP Compaq 8200 Elite SFF PC,CZC202CL7K,Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz,1,6442450944,3301,4,SEL-8947,False,4
+Microsoft Windows 7 Professional ,Dell Inc.,k2loading,OptiPlex 780                 ,8XXDQ4J,Intel(R) Core(TM)2 Duo CPU     E7600  @ 3.06GHz,1,4294967296,3059,2,SEL-9374,False,2
+Microsoft Windows 10 Pro,Hewlett-Packard,MARKS,HP ProBook 650 G1,5CG5384RHG,Intel(R) Core(TM) i5-4210M CPU @ 2.60GHz,0,4294967296,2601,2,SEL-9473,True,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Daniel.Gent,HP 280 G1 MT,CZC551116G,Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz,1,4294967296,3001,4,SEL-D-0441,False,4
+Microsoft Windows 7 Professional ,FUJITSU,Ann.Goodman,ESPRIMO E420,YLST041262,Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz,1,4294967296,3001,4,SEL-D-0599,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Lee.Lapko,HP Compaq Elite 8300 SFF,CZC3444X5R,Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz,1,12884901888,3201,4,SEL-D0023,False,4
+Microsoft Windows 10 Pro,Hewlett-Packard,Sara.Mellor,HP 280 G1 MT,CZC5512QVQ,Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz,0,12884901888,3001,4,SEL-D0034,False,4
+Microsoft Windows 10 Pro,Hewlett-Packard,ryan.owens,HP Pro 3300 Series MT,CZC1396PLC,Intel(R) Core(TM) i5-2400S CPU @ 2.50GHz,0,8589934592,2501,4,SEL-D0038,False,4
+Microsoft Windows 10 Pro,Hewlett-Packard,qlikview.roof,HP 260 G1 DM,4CH5092N2B,Intel(R) Pentium(R) 3558U @ 1.70GHz,0,4294967296,1701,2,SEL-D0043,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,gavin.reid,HP ProDesk 400 G1 MT,CZC4011VYJ,Intel(R) Pentium(R) CPU G3220 @ 3.00GHz,1,4294967296,3000,2,SEL-D0255,False,2
+Microsoft Windows 7 Professional ,Dell Inc.,GGBBS.Line,OptiPlex 780                 ,6XXDQ4J,Intel(R) Core(TM)2 Duo CPU     E7600  @ 3.06GHz,1,4294967296,3059,2,SEL-D0487,False,2
+Microsoft Windows 7 Professional ,HP,daniel.wragg,HP 280 G2 MT (Non-Legacy) ,CZC6369CSQ,Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz,1,8589934592,3401,4,SEL-D0543,False,8
+Microsoft Windows 7 Professional ,HP,robert.gee,HP 280 G2 MT (Non-Legacy) ,CZC6369CTD,Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz,1,8589934592,3401,4,SEL-D0544,False,8
+Microsoft Windows 10 Pro,HP,Chris.Wright,HP 280 G2 MT (Non-Legacy) ,CZC6369CRG,Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz,0,8589934592,3408,4,SEL-D0545,False,8
+Microsoft Windows 7 Professional ,Dell Inc.,Woodgrainp,OptiPlex 760                 ,B1KRJ4J,Intel(R) Core(TM)2 Duo CPU     E7500  @ 2.93GHz,1,4294967296,2926,2,SEL-D0612,False,2
+Microsoft Windows 7 Professional ,Dell Inc.,Ext.Print1,OptiPlex 760                 ,51KRJ4J,Intel(R) Core(TM)2 Duo CPU     E7500  @ 2.93GHz,1,4294967296,2926,2,SEL-D0613,False,2
+Microsoft Windows 7 Professional ,Dell Inc.,Inj.Print,OptiPlex 760                 ,31KRJ4J,Intel(R) Core(TM)2 Duo CPU     E7500  @ 2.93GHz,1,4294967296,2925,2,SEL-D0614,False,2
+Microsoft Windows 7 Professional ,HP,alyssa.hunter,HP 280 G2 MT (Non-Legacy) ,CZC6249M2P,Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz,1,8589934592,3401,4,SEL-D0641,False,8
+Microsoft Windows 10 Pro,HP,KRHODES,HP 285 G2 MT,CZC73680CV,AMD A8 PRO-7600B R7,0,8589934592,3100,2,SEL-D0654,False,4
+Microsoft Windows 10 Pro,HP,Becky.whitehead,HP ProDesk 400 G4 SFF ,CZC7328284,Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz,0,8589934592,3192,4,SEL-D0692,False,4
+Microsoft Windows 10 Pro,Hewlett-Packard,phil.brown,HP Z420 Workstation,CZC5072NFJ,Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz,0,34359738368,3501,6,SEL-D0745,False,12
+Microsoft Windows 10 Pro,HP,nelda.skadina,HP ProDesk 400 G4 SFF ,CZC7267VQL,Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz,0,8589934592,3192,4,SEL-D6030,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Chris.Fell,HP Compaq 8200 Elite SFF PC,CZC2089ZC2,Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz,1,8589934592,3101,4,SEL-D9023,False,4
+Microsoft Windows 10 Pro,Hewlett-Packard,catherine.meloy,HP EliteBook 840 G2,5CG6090WR2,Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz,0,8589934592,2301,2,SEL-L0005,True,4
+Microsoft Windows 7 Professional ,Panasonic Corporation,mark.morland,CF-19RHR23PE,1FKCA60067,Intel(R) Core(TM) i5 CPU       U 540  @ 1.20GHz,1,6450839552,1200,2,SEL-L0006,True,4
+Microsoft Windows 7 Professional ,HP,emily-mae.anderson,HP ProBook 650 G2,5CG6282RNZ,Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz,1,8589934592,2301,2,SEL-L0593,True,4
+Microsoft Windows 10 Pro,HP,hannah.oakden,HP ProBook 640 G3,5CG7450G5K,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,0,4294967296,2712,2,SEL-L0643,True,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,andrew.payne,HP 260 G1 DM,4CH5393K75,Intel(R) Pentium(R) 3558U @ 1.70GHz,1,4294967296,1701,2,SEL-RAF01,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,raf02,HP 260 G1 DM,4CH5393K7N,Intel(R) Pentium(R) 3558U @ 1.70GHz,1,4294967296,1701,2,SEL-RAF02,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,raf01,HP 260 G1 DM,4CH5393K7C,Intel(R) Pentium(R) 3558U @ 1.70GHz,1,4294967296,1701,2,SEL-RAF03,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,raf04,HP 260 G1 DM,4CH5393K7G,Intel(R) Pentium(R) 3558U @ 1.70GHz,1,4294967296,1701,2,SEL-RAF04,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,raf05,HP 260 G1 DM,4CH5393K72,Intel(R) Pentium(R) 3558U @ 1.70GHz,1,4294967296,1701,2,SEL-RAF05,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,raf13,HP 260 G1 DM,4CH5393K6Y,Intel(R) Pentium(R) 3558U @ 1.70GHz,1,4294967296,1701,2,SEL-RAF09,False,2
+Microsoft Windows Server 2012 R2 Standard,VMware,SA.Ashley.Collinge,VMware Virtual Platform,VMware-42 16 5a 18 6b d3 69 0b-e7 25 f1 24 26 6d 65 9d,Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz,0,8589934592,2397,1,SEL-V-PYDEV,False,1
+Microsoft Windows 10 Pro,HP,sam.nial,HP ProDesk 400 G2.5 SFF,CZC6021XK1,Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz,0,4294967296,3700,2,SEL-VG-02,False,4
+Microsoft Windows 10 Pro,FUJITSU                         ,kevin.yates,ESPRIMO E3521                 ,YL5J094178          ,Pentium(R) Dual-Core  CPU      E5800  @ 3.20GHz,0,4294967296,3200,2,SEL-VG-10,False,2
+Microsoft Windows 10 Pro,Hewlett-Packard,sam.nial,HP 600B,CZC2383M8Z,Intel(R) Pentium(R) CPU G640T @ 2.40GHz,0,8589934592,2400,2,SEL-VG-16,False,2
+Microsoft Windows 10 Pro,Hewlett-Packard,andy.cairns,HP 350 G2,5CG5345GX9,Intel(R) Core(TM) i3-4030U CPU @ 1.90GHz,0,4294967296,1901,2,SEL-VG-20,True,4
+Microsoft Windows 10 Pro,Acer,tomasz.bieniek,Veriton M2631G,DTVK8EK00241109AE79600,Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz,0,4294967296,3400,2,SEL-VG-23,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,kerrie.kirk,HP ProBook 650 G1,5CG45113Y0,Intel(R) Core(TM) i3-4000M CPU @ 2.40GHz,1,8589934592,2400,2,SEL00491,True,4
+Microsoft Windows 7 Professional ,HP,Charlotte.Murray,HP 280 G2 MT (Non-Legacy) ,CZC6219DHJ,Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz,1,4294967296,3201,4,SEL00503,False,4
+Microsoft Windows 7 Professional ,HP,paula.hughes,HP 280 G2 MT (Non-Legacy) ,CZC6227V8N,Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz,1,4294967296,3201,4,SEL00508,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,sharon.cross,HP 500B Microtower,CZC1063HJ2,Pentium(R) Dual-Core  CPU      E5800  @ 3.20GHz,1,4294967296,3203,2,SEL0079,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,alan.clarke,HP 500B Microtower,CZC1077BJS,Pentium(R) Dual-Core  CPU      E5800  @ 3.20GHz,1,2147483648,3203,2,SEL0083,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Mike.Pearson,HP Pro 3130 Microtower PC,CZC1120MB7,Intel(R) Core(TM) i5 CPU         650  @ 3.20GHz,1,8589934592,3201,2,SEL0084,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,SarahD,HP Pro 3135 Microtower PC,CZC1137FCC,AMD Athlon(tm) II X2 250 Processor,1,4294967296,3000,2,SEL0116,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,ian.cranshaw,HP Pro 3300 Series MT,CZC1396PML,Intel(R) Core(TM) i5-2400S CPU @ 2.50GHz,1,8589934592,2501,4,SEL0120,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,philw,HP Pro 3300 Series MT,CZC1396PK3,Intel(R) Core(TM) i5-2400S CPU @ 2.50GHz,1,8589934592,2501,4,SEL0121,False,4
+Microsoft Windows 10 Pro,Hewlett-Packard,lewis.draper,HP 500B Microtower,CZC1321S46,Pentium(R) Dual-Core  CPU      E5800  @ 3.20GHz,0,2147483648,3203,2,SEL0124,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,miwa.takaoka,HP Pro 3300 Series MT,CZC1396PKL,Intel(R) Core(TM) i5-2400S CPU @ 2.50GHz,1,8589934592,2501,4,SEL0126,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,mark.cooper,HP 500B Microtower,CZC13760QP,Pentium(R) Dual-Core  CPU      E5800  @ 3.20GHz,1,4294967296,3200,2,SEL01362,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,paul.woodhead,HP Pro 3400 Series MT,CZC2228TVN,Intel(R) Pentium(R) CPU G630 @ 2.70GHz,1,8589934592,2700,2,SEL0155,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Laura.Roberts,HP Pro 3400 Series MT,CZC2227HRC,Intel(R) Pentium(R) CPU G630 @ 2.70GHz,1,4294967296,2700,2,SEL0159,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Angelika.Polowniak,HP Pro 3400 Series MT,CZC2227HK8,Intel(R) Pentium(R) CPU G630 @ 2.70GHz,1,2147483648,2700,2,SEL0160,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,AARON,HP Pro 3400 Series MT,CZC2164TFH,Intel(R) Pentium(R) CPU G630 @ 2.70GHz,1,4294967296,2700,2,SEL0163,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,charlotte.askew,HP Pro 3400 Series MT,CZC2164TFC,Intel(R) Pentium(R) CPU G630 @ 2.70GHz,1,8589934592,2700,2,SEL0168,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,mellony.machin,HP Pro 3405 Series,CZC22128QB,AMD A4-3420 APU with Radeon(tm) HD Graphics,1,2147483648,2800,2,SEL0173,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Cori.Short,HP Pro 3405 Series,CZC22128V3,AMD A4-3420 APU with Radeon(tm) HD Graphics,1,8589934592,2800,2,SEL0174,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,danny.cox,HP Pro 3505 Series ,CZC2343470,AMD A6-3620 APU with Radeon(tm) HD Graphics,1,4294967296,2200,4,SEL0177,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Alex.Tomlinson,HP Pro 3505 Series ,CZC23434GS,AMD A6-3620 APU with Radeon(tm) HD Graphics,1,4294967296,2200,4,SEL0179,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,stephen.ellis,HP Pro 3505 Series ,CZC2519LCB,AMD E2-3200 APU with Radeon(tm) HD Graphics,1,4294967296,2400,2,SEL0182,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Lizzie.Bowler,HP Pro 3505 Series ,CZC2519L93,AMD E2-3200 APU with Radeon(tm) HD Graphics,1,4294967296,2400,2,SEL0184,False,2
+Microsoft Windows 7 Professional ,Dell Inc.,elza.gaidule,OptiPlex 9020,BM60G82,Intel(R) Core(TM) i5-4690S CPU @ 3.20GHz,1,8589934592,3201,4,SEL0187,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,front.desk,HP Pro 3515 Series,CZC3031MSG,AMD A4-5300 APU with Radeon(tm) HD Graphics    ,1,4294967296,3400,1,SEL0189,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,stevep,HP Compaq dx2420 Microtower,CZC9351GY8,Pentium(R) Dual-Core  CPU      E5200  @ 2.50GHz,1,2147483648,2500,2,SEL0194,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,James.Froggatt,HP Pro 3515 Series,CZC3031MSP,AMD A4-5300 APU with Radeon(tm) HD Graphics    ,1,4294967296,3400,1,SEL0199,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Jim.pears,HP Pro3500 Series,CZC3183T88,Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz,1,8589934592,3201,4,SEL0206,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,David.Hughes,HP Pro3500 Series,CZC3217J17,Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz,1,4294967296,3201,4,SEL0208,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Carol-Ann.Martin,HP Pro3500 Series,CZC3217J1G,Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz,1,6442450944,3201,4,SEL0210,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Sharon,HP 600B,CZC32570R9,Intel(R) Core(TM) i3-3220T CPU @ 2.80GHz,1,4294967296,2800,2,SEL0213,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,trevor.young,HP Compaq dx2420 Microtower,CZC9355MJB,Pentium(R) Dual-Core  CPU      E5300  @ 2.60GHz,1,2147483648,2600,2,SEL0218,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Gary.Bettison,HP 600B,CZC3234J5L,Intel(R) Pentium(R) CPU G2020T @ 2.50GHz,1,4294967296,2500,2,SEL0220,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Janet.Hallam,HP 600B,CZC32429FL,Intel(R) Core(TM) i3-3220T CPU @ 2.80GHz,1,4294967296,2800,2,SEL0224,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,colin.poole,HP Pro 3500 Series,CZC241C0FT,Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz,1,17179869184,3201,4,SEL0233,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,AMY,HP Pro3500 Series,CZC3370J3W,Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz,1,8589934592,3201,4,SEL0236,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,lee.bradbury,HP Pro3500 Series,CZC3374W9D,Intel(R) Pentium(R) CPU G2030 @ 3.00GHz,1,4294967296,3000,2,SEL0237,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,tnicholls,Compaq 500B Microtower,CZC9503VKD,Pentium(R) Dual-Core  CPU      E5300  @ 2.60GHz,1,2147483648,2603,2,SEL0244,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,hannah.byard,HP Pro3500 Series,CZC3255HG4,Intel(R) Pentium(R) CPU G2030 @ 3.00GHz,1,4294967296,3000,2,SEL0245,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,EXTRUSIONS.MAINTENAN,HP Pro3500 Series,CZC3254S7Q,Intel(R) Pentium(R) CPU G2030 @ 3.00GHz,1,4294967296,3000,2,SEL0250,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,ben.foulds,HP Elite 7500 Series MT ,CZC40401KW,Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz,1,17179869184,3401,4,SEL0251,False,8
+Microsoft Windows 7 Professional ,Hewlett-Packard,Kev,HP ProDesk 490 G1 MT,CZC4070YMY,Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz,1,8589934592,3401,4,SEL0253,False,8
+Microsoft Windows 7 Professional ,Hewlett-Packard,neil.gooding,HP ProDesk 400 G1 MT,CZC4011R55,Intel(R) Pentium(R) CPU G3220 @ 3.00GHz,1,8589934592,3000,2,SEL0257,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Penny.Wilkinson,HP ProDesk 400 G1 MT,CZC4075K8F,Intel(R) Pentium(R) CPU G3220 @ 3.00GHz,1,8589934592,3000,2,SEL0262,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,PETERS,Compaq 500B Microtower,CZC9503VK0,Pentium(R) Dual-Core  CPU      E5300  @ 2.60GHz,1,2147483648,2603,2,SEL0263,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Kim.Hayes,HP ProDesk 400 G1 MT,CZC4075K8P,Intel(R) Pentium(R) CPU G3220 @ 3.00GHz,1,4294967296,3000,2,SEL0265,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,adam.whomsley,HP ProDesk 405 G1 MT,CZC4190L72,AMD A4-5000 APU with Radeon(TM) HD Graphics    ,1,4294967296,1500,4,SEL0272,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,sarah.chambers,HP ProDesk 405 G1 MT,CZC4190L9S,AMD A4-5000 APU with Radeon(TM) HD Graphics    ,1,4294967296,1500,4,SEL0278,False,4
+Microsoft Windows 7 Professional ,Acer,pl.scanner,Veriton X2631G,DTVKBEK002411034219600,Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz,1,4294967296,3400,2,SEL0279,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Mark.Gibson,HP ProDesk 405 G1 MT,CZC4231J91,AMD A4-5000 APU with Radeon(TM) HD Graphics    ,1,4294967296,1500,4,SEL0281,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Dave.Hyatt,HP ProDesk 400 G1 MT,CZC41650NV,Intel(R) Pentium(R) CPU G3220 @ 3.00GHz,1,4294967296,3000,2,SEL0283,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Matt.Truman,HP ProDesk 400 G1 MT,CZC41650NY,Intel(R) Pentium(R) CPU G3220 @ 3.00GHz,1,4294967296,3000,2,SEL0284,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Andriy.Belizky,HP ProDesk 405 G1 MT,CZC42147T1,AMD A4-5000 APU with Radeon(TM) HD Graphics    ,1,4294967296,1500,4,SEL0285,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,paulina.dzielak,HP ProDesk 405 G1 MT,CZC42147KH,AMD A4-5000 APU with Radeon(TM) HD Graphics    ,1,4294967296,1500,4,SEL0288,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,rachel.boulton,HP ProDesk 400 G1 MT,CZC4261Y5J,Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz,1,4294967296,3201,4,SEL0302,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Tracy.may,HP ProDesk 400 G1 MT,CZC426367C,Intel(R) Pentium(R) CPU G3220 @ 3.00GHz,1,4294967296,3000,2,SEL0305,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Jonathan.Gilderdale,HP Compaq dx2420 Microtower,CZC9355MKP,Pentium(R) Dual-Core  CPU      E5300  @ 2.60GHz,1,4294967296,2600,2,SEL0307,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Kim.Cully,HP Pro 3400 Series MT,CZC2228TDS,Intel(R) Pentium(R) CPU G630 @ 2.70GHz,1,8589934592,2700,2,SEL0310,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,sally.pikett,HP ProDesk 400 G1 MT,CZC42550VH,Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz,1,4294967296,3400,2,SEL0313,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,josh.johnson,HP 500B Microtower,CZC1301WTW,Pentium(R) Dual-Core  CPU      E5800  @ 3.20GHz,1,2147483648,3203,2,SEL0316,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Lindsay.West,HP Pro 3400 Series MT,CZC2227HR6,Intel(R) Pentium(R) CPU G630 @ 2.70GHz,1,2147483648,2700,2,SEL0322,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Joanna.Jedrzejewska,HP ProDesk 400 G2 MT,CZC4360DHG,Intel(R) Pentium(R) CPU G3240 @ 3.10GHz,1,4294967296,3100,2,SEL0325,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,David.Smith,HP ProDesk 400 G2 MT,CZC4360DWD,Intel(R) Pentium(R) CPU G3240 @ 3.10GHz,1,4294967296,3100,2,SEL0326,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,andrew.walker,HP ProBook 650 G1,5CG4351XTD,Intel(R) Core(TM) i3-4000M CPU @ 2.40GHz,1,4294967296,2400,2,SEL0332,True,4
+Microsoft Windows 10 Pro,Hewlett-Packard,lesley.wright,HP ProDesk 400 G1 MT,CZC4262VY6,Intel(R) Pentium(R) CPU G3220 @ 3.00GHz,0,4294967296,3000,2,SEL0334,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,consprod,HP Compaq dc5800 Small Form Factor,CZC83753BH,Intel(R) Pentium(R) Dual  CPU  E2180  @ 2.00GHz,1,2151677952,2000,2,SEL0340,False,2
+Microsoft Windows 7 Professional ,FUJITSU,cons.loading,ESPRIMO E420,YLST062006,Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz,1,4294967296,3400,2,SEL0343,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,gatehouse,HP ProDesk 400 G2 MT,CZC4474QTJ,Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz,1,8589934592,3001,4,SEL0346,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,x-rite,HP 280 G1 MT,CZC5210ZC0,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,1,4294967296,3200,2,SEL0349,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,POWDER,HP ProDesk 400 G2 MT,CZC4360MZK,Intel(R) Pentium(R) CPU G3240 @ 3.10GHz,1,4294967296,3100,2,SEL0350,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,charlotte.harpham,HP 280 G1 MT,CZC44930W4,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,1,4294967296,3200,2,SEL0357,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Rebecca.Collis,HP 280 G1 MT,CZC4511B04,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,1,4294967296,3200,2,SEL0360,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Simona.Hora,HP 280 G1 MT,CZC45119Z3,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,1,4294967296,3200,2,SEL0363,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Adele.West,HP 280 G1 MT,CZC4511B2P,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,1,4294967296,3200,2,SEL0364,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,christine.moody,HP 280 G1 MT,CZC4511B3K,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,1,4294967296,3200,2,SEL0367,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Hannah.Lafferty,HP 280 G1 MT,CZC4522F15,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,1,4294967296,3200,2,SEL0369,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,mandy.chatterton,HP 280 G1 MT,CZC4522FF5,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,1,4294967296,3200,2,SEL0370,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Joshua.Spedding,HP 280 G1 MT,CZC4522F81,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,1,4294967296,3200,2,SEL0371,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Alison.Middleton,HP 280 G1 MT,CZC4522F4S,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,1,4294967296,3200,2,SEL0372,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,gareth.price,HP 280 G1 MT,CZC4522F9G,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,1,4294967296,3200,2,SEL0373,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Andyb,HP 280 G1 MT,CZC4522F65,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,1,4294967296,3200,2,SEL0376,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,emily.cooper,HP 280 G1 MT,CZC4522F63,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,1,4294967296,3200,2,SEL0377,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Alison.Lineker,HP 280 G1 MT,CZC4493134,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,1,4294967296,3200,2,SEL0381,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Sharon.Berry,HP 280 G1 MT,CZC44930ZL,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,1,4294967296,3200,2,SEL0382,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,leanne.white,HP 280 G1 MT,CZC4522F6W,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,1,8589934592,3200,2,SEL0385,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Dan.Jones,HP 280 G1 MT,CZC4522F20,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,1,4294967296,3200,2,SEL0386,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,claire.southcott,HP 280 G1 MT,CZC4522F1T,Intel(R) Pentium(R) CPU G3250 @ 3.20GHz,1,4294967296,3200,2,SEL0387,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Luke.Ash,HP 280 G1 MT,CZC511112P,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,1,4294967296,3600,2,SEL0391,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Warmcore.Supervisor,HP ProDesk 400 G2 MT (TPM DP),CZC5140HDY,Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz,1,4294967296,3001,4,SEL0400,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,tim.burton,HP ProBook 650 G1,5CG52025RK,Intel(R) Core(TM) i5-4210M CPU @ 2.60GHz,1,4294967296,2601,2,SEL0402,True,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Hannah.Smith,HP 280 G1 MT,CZC5242SBW,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,1,4294967296,3600,2,SEL0404,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Stacey.Crossland,HP 280 G1 MT,CZC526085K,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,1,4294967296,3600,2,SEL0408,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Alanis.Stocken,HP 280 G1 MT,CZC52607Q9,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,1,4294967296,3600,2,SEL0410,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,QC.Monitor,HP 280 G1 MT,CZC52608BK,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,1,4294967296,3600,2,SEL0411,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Deborah.tibby,HP 280 G1 MT,CZC52607P7,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,1,4294967296,3600,2,SEL0412,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,amy.plant,HP 280 G1 MT,CZC5361HNS,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,1,4294967296,3600,2,SEL0419,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,andy.jones,HP ProBook 650 G1,5CG5373XL1,Intel(R) Core(TM) i5-4210M CPU @ 2.60GHz,1,4294967296,2601,2,SEL0428,True,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Leyla.lound,HP 280 G1 MT,CZC53816DH,Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz,1,8589934592,3001,4,SEL0430,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Debrah.Steele,HP 280 G1 MT,CZC53816JC,Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz,1,4294967296,3001,4,SEL0433,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,sa.korbain.martin,HP 280 G1 MT,CZC5380SL4,Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz,1,8589934592,3001,4,SEL0435,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Lorraine.O'mahoney,HP 280 G1 MT,CZC5380SRH,Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz,1,4294967296,3001,4,SEL0436,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,wendy.millard,HP 280 G1 MT,CZC5380T6F,Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz,1,4294967296,3001,4,SEL0437,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,andyb,HP 260 G1 DM,4CH5393K77,Intel(R) Pentium(R) 3558U @ 1.70GHz,1,4294967296,1701,2,SEL0450,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,raf19,HP 260 G1 DM,4CH5393K7H,Intel(R) Pentium(R) 3558U @ 1.70GHz,1,4294967296,1701,2,SEL0451,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,raf18,HP 260 G1 DM,4CH5393K7J,Intel(R) Pentium(R) 3558U @ 1.70GHz,1,4294967296,1701,2,SEL0452,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,raf20,HP 260 G1 DM,4CH5393K70,Intel(R) Pentium(R) 3558U @ 1.70GHz,1,4294967296,1701,2,SEL0457,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Igors.Buzins,HP 280 G1 MT,CZC54930ZB,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,1,4294967296,3600,2,SEL0459,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,neil.coutts,HP 280 G1 MT,CZC5512QTZ,Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz,1,12884901888,3001,4,SEL0462,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,anthony.carroll,HP 280 G1 MT,CZC5511WBL,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,1,4294967296,3600,2,SEL0464,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,matt.jones,HP ProBook 650 G1,5CG5384NWJ,Intel(R) Core(TM) i5-4210M CPU @ 2.60GHz,1,4294967296,2601,2,SEL0468,True,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Benjamin.Jones,HP 280 G1 MT,CZC551053K,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,1,4294967296,3600,2,SEL0471,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,raf06,HP 260 G1 DM,4CH6059LPF,Intel(R) Pentium(R) 3558U @ 1.70GHz,1,4294967296,1701,2,SEL0474,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,Richard.Woolley,HP 280 G1 MT,CZC5511C10,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,1,4294967296,3600,2,SEL0478,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,sam.marshall,HP ProBook 650 G1,5CG5384VKR,Intel(R) Core(TM) i5-4210M CPU @ 2.60GHz,1,17179869184,2601,2,SEL0479,True,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,LAIMA.BUDRECKIENE,HP 280 G1 MT,CZC5511BTY,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,1,4294967296,3600,2,SEL0480,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Cons.loading,HP 280 G1 MT,CZC5511CBN,Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz,1,8589934592,3600,2,SEL0483,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,deana.newton,HP ProBook 650 G1,5CG5384PRJ,Intel(R) Core(TM) i5-4210M CPU @ 2.60GHz,1,4294967296,2601,2,SEL0486,True,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Tracey.Garner,HP 280 G1 MT,CZC61099M5,Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz,1,4294967296,3001,4,SEL0514,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Agnieszka.Raczka,HP 600B,CZC3236W2Z,Intel(R) Pentium(R) CPU G2020T @ 2.50GHz,1,4294967296,2500,2,SEL0518,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,shift.c,HP 280 G1 MT,CZC6040JY2,Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz,1,4294967296,3001,4,SEL0521,False,4
+Microsoft Windows 7 Professional ,HP,Katherine.Taylor,HP Z240 Tower Workstation,CZC6287QMT,Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz,1,17179869184,3401,4,SEL0528,False,8
+Microsoft Windows 7 Professional ,HP,Jimmy.stone,HP 280 G2 MT (Non-Legacy) ,CZC6219NSR,Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz,1,4294967296,3201,4,SEL0530,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,abigail.lafferty,HP ProDesk 400 G1 MT,CZC40402B7,Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz,1,4294967296,3201,4,SEL0600,False,4
+Microsoft Windows 10 Pro,HP,Mateusz.Prudlo,HP 280 G2 MT (Non-Legacy) ,CZC7238SV0,Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz,0,4294967296,3696,2,SEL0627,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,George.Leverton,HP Compaq dx2420 Microtower,CZC9351GTG,Pentium(R) Dual-Core  CPU      E5200  @ 2.50GHz,1,2147483648,2500,2,SEL0703,False,2
+Microsoft Windows 10 Pro,HP,jamie.mcginn,HP ProBook 650 G2,5CG6374L0N,Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz,0,4294967296,2400,2,SEL0731,True,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Kerry.Kirkman,HP ProDesk 400 G2 MT,CZC4360LZ0,Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz,1,4294967296,3001,4,SEL0861,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,steve.parkin,HP Compaq 8200 Elite SFF PC,CZC22520H1,Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz,1,8589934592,3301,4,SEL0862,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,kevin.buxton,HP Compaq 8200 Elite SFF PC,CZC225650K,Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz,1,8589934592,3301,4,SEL0928,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,Chris.Lynk,HP ProDesk 400 G2 MT,CZC4360NF7,Intel(R) Pentium(R) CPU G3240 @ 3.10GHz,1,4294967296,3100,2,SEL0985,False,2
+Microsoft Windows 7 Professional ,Hewlett-Packard,aneta.pindak,HP 600B,CZC3227H9Q,Intel(R) Core(TM) i3-3220T CPU @ 2.80GHz,1,4294967296,2800,2,SEL0988,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,jackie.allen,HP 280 G1 MT,CZC55111GL,Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz,1,8589934592,3001,4,SEL0999,False,4
+Microsoft Windows 10 Pro,HP,John.Brown,HP ProBook 650 G2,5CG6374C0R,Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz,0,4294967296,2400,2,SEL849,True,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,nikki.walton,HP Compaq Elite 8300 SFF,CZC3136WHZ,Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz,1,17179869184,3201,4,SEL9482,False,4
+Microsoft Windows 10 Pro,Dell Inc.,Scot.McParLand,OptiPlex 9020,2FK6NZ1,Intel(R) Core(TM) i5-4670S CPU @ 3.10GHz,0,8589934592,3101,4,SEL9518,False,4
+Microsoft Windows 7 Professional ,HP,hayley.adamson,HP ProDesk 490 G3 MT Business PC,CZC605801G,Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz,1,34359738368,3401,4,SEL9845,False,8
+Microsoft Windows 10 Pro,HP,Robert.Long,HP ProBook 650 G3,5CG7505BHJ,Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz,0,8589934592,2712,2,SEL_3679,True,4
+Microsoft Windows 7 Professional ,System manufacturer,angela.dempsey,System Product Name,System Serial Number,Intel(R) Core(TM) i3-3220 CPU @ 3.30GHz,1,4294967296,3300,2,SGWPC-003,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,sue.buck,HP ProDesk 400 G1 MT,CZC4255WW8,Intel(R) Pentium(R) CPU G3220 @ 3.00GHz,1,4294967296,3000,2,SUEBUCK-HP,False,2
+Microsoft Windows 10 Pro,Hewlett-Packard,gary.rawnsley,HP ProBook 650 G1,5CG4290MCM,Intel(R) Core(TM) i5-4200M CPU @ 2.50GHz,0,12884901888,2501,2,SYNLAP-01,True,4
+Microsoft Windows 7 Professional ,FUJITSU,Tool.Room,ESPRIMO E420,YLST073861,Intel(R) Core(TM) i5-4430 CPU @ 3.00GHz,1,8589934592,3001,4,TOOLROOM-PC,False,4
+Microsoft Windows 7 Professional ,Hewlett-Packard,vijay.mistry,HP ProDesk 400 G2 MT,CZC4350FDJ,Intel(R) Core(TM) i5-4590S CPU @ 3.00GHz,1,4294967296,3001,4,VIJAYMISTRY-HP,False,4
